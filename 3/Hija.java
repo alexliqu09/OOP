@@ -22,7 +22,7 @@ class Hija extends Padre{//Para que herede de un clase se debe poner "extends"
   //creamos algunos métodos para comenzar que funcione nuestro problema del perceptron
   public double sigmoide(double output){
        this.output=output;
-      double Y =(1/(1+Math.exp(this.output)));
+      double Y =(1/(1+Math.exp((-1)*this.output)));
       
      return Y;
   }        
