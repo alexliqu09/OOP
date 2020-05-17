@@ -1,0 +1,4 @@
+Vamos ha emplear el tema de la herencia usando como ejemplo el perceptron.
+veamos al perceptron como un vector al cúal a cada componente del vector le asignimamos un peso y 
+lo multiplicamos por un peso y posteriomente le sumamos un parámetro de bias.
+Además le haremos pasar por una función de activación para evitar la linealidad.(sigmoide)
