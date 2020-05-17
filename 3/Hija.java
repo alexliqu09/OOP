@@ -42,6 +42,10 @@ class Hija extends Padre{//Para que herede de un clase se debe poner "extends"
  /*Como se dijo el ejemplo de los animales en el método padre se usaba para solo imprimir el intput pero en la clase hija
    Ya no lo usamos para imprimir el Intput sino el parámetro de bais.(Tiene como finalida imprimir pero los dos varian en  que la hija imprime  el bias y el padre el intput.Podemos crear otra clase que herede padre y que imprima el intput también o sino que la hija pueda imprimir tanto 
 el intput como el parámetro de bias.)          
+ Nota: También si no se creaba la función Mostrar_Datos en la clase Hija entonces por defecto se puede usar el Mostrar_Datos de 
+ la clase padre.
+ Perceptron.Mostrar_Datos();//de la clase Padre 
+ imprime --> lo que está en el método de la clase Padre.
  */ 
    public void Mostrar_Datos(){
          System.out.println("nuestros bias es: "+this.bias);
