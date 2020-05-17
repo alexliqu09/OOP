@@ -1,0 +1,7 @@
+javac HelloWorld.java --release 8
+
+java HelloWorld
+
+ asi funciona
+
+
