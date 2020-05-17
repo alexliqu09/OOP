@@ -1,4 +1,9 @@
-//HElloworld es el nombre del editor de texto que usé como ejmplo y el .java es la extensión
+Actualmente estoy Usando la terminal y el generador de texto de linux distribución de Ubuntu 18.04.4  ,pero también usaré 
+posteriormente el IDE de NetBeans 8.2.
+
+HElloworld es el nombre del editor de texto que usé como ejmplo y el .java es la extensión
+Nota:el "--release 8 "es por que mi ejecutador y compilador estan en diferentes versiones.
+
 
 javac HelloWorld.java --release 8
 
