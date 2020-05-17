@@ -15,7 +15,7 @@ class Hija extends Padre{//Para que herede de un clase se debe poner "extends"
   y ya no es necesario volverla ha a declararlo.(Por eso se usa super)
   Entonces bastaria con declarar los otros atributos.
 */
-}
+
     super(intput);   
     this.bias=bias;
   }    
