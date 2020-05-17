@@ -1,7 +1,9 @@
+//HElloworld es el nombre del editor de texto que usé como ejmplo y el .java es la extensión
+
 javac HelloWorld.java --release 8
 
 java HelloWorld
 
- asi funciona
+
 
 
