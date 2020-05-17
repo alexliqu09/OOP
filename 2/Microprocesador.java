@@ -40,7 +40,7 @@ public void Setter(int i){
 /*Nos permite modificar valores y no devuelve nada*/
   Memoria_virtual[i]=32;
 }
-/*Otro metodo setter para imprimir la memoria virtual*/
+/*Otro metodo getter para imprimir la memoria virtual*/
 public String Num_Mem(int i){
 
   return "EL numero de memoria virtual es: "+ Memoria_virtual[i];
