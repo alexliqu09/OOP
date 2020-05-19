@@ -51,6 +51,6 @@ el intput como el parámetro de bias.)
          System.out.println("nuestros bias es: "+this.bias);
 
    }
-  //Dato inportante un clase solo puede hederar de solo una otra clase.No existe :(class Hija extends Padre,Padre2)solo 1.    
+  //Dato inportante en Java una clase solo puede hederar de solo una otra clase.No existe :(class Hija extends Padre,Padre2)solo 1.    
       
 } 
