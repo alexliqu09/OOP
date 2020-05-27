@@ -1,0 +1,4 @@
+-En este programa lo que buscamos es dar un ejemplo de lo que es Polimorfismo.
+-En este ejemplo tratamos de utilizar una función matemática la cual es Softmax,la cual es muy util en los algoritmos de 
+ Machine leatning,un ejemplo de ello son los algoritmos de clasificación.Nuestro output obtendremos un vector de probrabilidades
+ donde el que posee max valor,quiere decir que tiene una mayor probabilidad de ser este.
