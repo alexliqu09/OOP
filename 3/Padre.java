@@ -8,7 +8,7 @@
 //a la clase Hija
 
 
-public abstract class Padre{//La clase padre siempre va  a ser de tipo abstracto 
+public abstract class Padre{//La clase padre  
 
  int [] intput = new int [6];
  
